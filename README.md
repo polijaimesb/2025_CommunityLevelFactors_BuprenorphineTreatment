@@ -1,6 +1,6 @@
 # Community-Level Factors Influencing the Duration of Buprenorphine Treatment in Individuals with Opioid Use Disorder
 
-This repository contains three R markdown scripts to process, clean, and analyze claims data of patients treated with buprenorphine for opioid use disorder (OUD), focusing on understanding treatment duration and its predictors using real-world data.
+This repository contains four R markdown scripts to process, clean, and analyze claims data of patients treated with buprenorphine for opioid use disorder (OUD), focusing on understanding treatment duration and its predictors using real-world data.
 
 ## Prerequisites
 The following R packages are required to run the scripts:
