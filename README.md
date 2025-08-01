@@ -21,6 +21,9 @@ library(pROC)
 library(cobalt)
 library(twang)
 library(stringi)
+library(readxl)
+library(tidycensus)
+
 ```
 
 ## Authorization
