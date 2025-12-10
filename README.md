@@ -41,4 +41,4 @@ The fourth markdown script (4.-SVI_censusTo3ZIP) converts the Social Vulnerabili
 Treatment episodes are defined using a 14-day gap rule. Adherence is measured with PDC over 30- and 90-day windows. Outcomes include discontinuation (episode duration < 180 days) and categorical duration outcomes (short (0-3 months), medium (3-6 months), extended-medium (6-12 months), long (more than 12 months). Demographic, diagnostic, procedural, and contextual variables are used as predictors. Multinomial logistic regression identifies factors associated with treatment retention.
 
 ## Publication
-This code supports a manuscript currently in preparation exploring predictors of buprenorphine treatment duration using real-world claims data.
+Jaimes-Buitron PA, Zhang K, Gong Y, Guo Y, Bauer C, Vivas-Valencia C. Community-level factors influencing the duration of buprenorphine treatment in individuals with opioid use disorder: a cohort study using US longitudinal claims data. BMJ Public Health. 2025;3:e003767. https://doi.org/10.1136/bmjph-2025-003767
